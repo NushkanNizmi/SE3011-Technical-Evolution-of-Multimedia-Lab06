@@ -971,7 +971,6 @@ Without cooldown, when player touches an enemy, the collision is true for many f
 Cooldown makes it lose only **1 life per hit**.
 
 
----
 
 
 ---
@@ -996,8 +995,6 @@ Cooldown makes it lose only **1 life per hit**.
 2. Add score: score increases every second survived  
 3. Add a “safe zone” at the bottom where enemies can’t enter  
 4. Add a second jump (double jump)  
-
----
 
 
 
