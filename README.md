@@ -973,6 +973,34 @@ Cooldown makes it lose only **1 life per hit**.
 
 ---
 
+
+---
+
+##  Expected Output
+
+- Start screen appears first  
+- Press ENTER → game starts  
+- Player slides smoothly (accel + friction)  
+- SPACE jumps  
+- Enemies bounce around  
+- Touch enemy → lives decrease by 1  
+- Survive 30 seconds → WIN screen  
+- Lose all lives → GAME OVER screen  
+- Press R to restart  
+
+---
+
+##  Mini Challenges (Optional)
+
+1. Increase difficulty: every 10 seconds multiply enemy speed by 1.2  
+2. Add score: score increases every second survived  
+3. Add a “safe zone” at the bottom where enemies can’t enter  
+4. Add a second jump (double jump)  
+
+---
+
+
+
 ---
 
 <!-- ===================== GOOD LUCK FOOTER (CREATIVE) ===================== -->
